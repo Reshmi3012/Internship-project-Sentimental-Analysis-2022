@@ -16,3 +16,6 @@ The first step of preparing text data is applying feature extraction and basic t
 6.Removal of Stop words
 7.Lower casing
 8.Lemmatization
+
+google collab link:
+https://colab.research.google.com/drive/1urPURfuqMOWcOeuv-EK42tPIIAe2OtKV#scrollTo=1d2V8k9BssMG
